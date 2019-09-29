@@ -6,5 +6,6 @@
 
 ## Περιεχόμενο
 - [Εισαγωγή στην LISP](./introduction-to-lisp)
-    - [Συμβολικοί υπολογισμοί](./introduction-to-lisp/symbolic-computation.lisp)
-    - [Καθορισμός Μεταβλητών](./introduction-to-lisp/variable-declaration.lisp)
+    - [Συμβολικοί υπολογισμοί](./introduction-to-lisp/1-symbolic-computation.lisp)
+    - [Καθορισμός Μεταβλητών](./introduction-to-lisp/2-variable-declaration.lisp)
+    - [Λίστες](./introduction-to-lisp/3-lists.lisp)
