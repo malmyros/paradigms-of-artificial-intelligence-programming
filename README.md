@@ -9,3 +9,4 @@
     - [Συμβολικοί υπολογισμοί](./introduction-to-lisp/1-symbolic-computation.lisp)
     - [Καθορισμός Μεταβλητών](./introduction-to-lisp/2-variable-declaration.lisp)
     - [Λίστες](./introduction-to-lisp/3-lists.lisp)
+    - [Καθορισμός καινούργιων λειτουργιών](./introduction-to-lisp/4-defining-new-functions.lisp)
