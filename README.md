@@ -11,3 +11,4 @@
     - [Λίστες](./introduction-to-lisp/3-lists.lisp)
     - [Καθορισμός καινούργιων λειτουργιών](./introduction-to-lisp/4-defining-new-functions.lisp)
     - [Χρησιμοποίηση λειτουργιών](./introduction-to-lisp/5-using-functions.lisp)
+    - [Λειτουργίες υψηλότερων τάξεων](./introduction-to-lisp/6-higher-order-functions.lisp)
